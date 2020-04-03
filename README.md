@@ -2,7 +2,7 @@ JAVA 11
 
 ## Useful info:
 ### 1. Batching problem (see https://stackoverflow.com/questions/27697810/hibernate-disabled-insert-batching-when-using-an-identity-identifier-generator)
-#### 1.1 To use bathing you need only two things: (see https://stackoverflow.com/questions/27697810/hibernate-disabled-insert-batching-when-using-an-identity-identifier-generator)
+#### 1.1 To use batching you need only two things: (see https://stackoverflow.com/questions/27697810/hibernate-disabled-insert-batching-when-using-an-identity-identifier-generator)
 - set batch_size property
 ```
 spring:
